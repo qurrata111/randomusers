@@ -1,13 +1,9 @@
-In the project directory, you can run:
+# Random User App Generator
+This project was created using ReactJs framework. I use https://randomuser.me/api/?results=20 to show the users data in the web app. In order to finish this project I also install several libraries such as Bootstrap, react-icons, enzyme-adapter-react-16, and enzyme.
 
-### `npm start`
+## Install the web app
+In this directory you can install this project by running `npm install` in your terminal
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### 'npm run test`
-
-Runs the app in the testing mode.
+## Run the web app
+- To run the project in the development run `npm start`
+- To run the project in the testing mode run `npm run test`
